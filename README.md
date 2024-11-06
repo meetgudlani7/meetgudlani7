@@ -97,5 +97,25 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meetgudlani7&layout=compact&theme=radical)](https://github.com/meetgudlani7)
+ 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meetgudlani7&layout=compact&theme=radical)
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" /> **Leetcode Info:**  
+
+<div style="display: flex; gap: 10px;">
+  <a href="https://leetcode.com/meetgudlani/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="meetgudlani50" height="200" width="200" />
+  </a>
+  </a>
+  <a href="https://leetcode.com/meetgudlani/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="meetgudlani100" height="200" width="200" />
+  </a>
+</div>
+<img align="top" style="flex-grow: 1;" src="https://leetcard.jacoblin.cool/meetgudlani?theme=dark&font=Nunito&ext=heatmap" />
+
+
+
+
+
 
