@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/gudlani__/profilecard/?igsh=MTk5MjJvZDhtMGNlYQ==)](https://www.instagram.com/gudlani__/profilecard/?igsh=MTk5MjJvZDhtMGNlYQ==)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:meetgudlani7@gmail.com)
 
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
+[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/meetgudlani7)
 
 🔭 I’m currently working on automation solutions in Business Responsibility and Sustainability Reporting (BRSR) using Python, web scraping, and LangChain.
 
