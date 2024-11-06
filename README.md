@@ -97,7 +97,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </p>
- 📊 Most Used Languages
+ <strong>📊 Most Used Languages</strong>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meetgudlani7&layout=compact&theme=radical)
 
